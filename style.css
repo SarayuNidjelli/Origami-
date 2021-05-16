@@ -32,19 +32,19 @@
     font-family: cursive;
 }
 
+/*
 .grid{
     display: flex;
     flex-wrap: wrap;
     border: 2px solid black;
     border-radius: 50px;
 }
-
+*/
 .origami{
-    display: flex;
-    flex-wrap: wrap;
+   
     border-radius: 20px;
     background-color: white;
 
     width: 310px;
-   
+   font-family: fantasy;
 }
